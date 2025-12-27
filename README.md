@@ -16,7 +16,7 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
 
 
 
-## 👨‍💻 About the Author
-Hey, I’m VArshitha Patil, an Aspiring Data Analyst .
+## About the Author
+Hey, I’m Varshitha Patil, an Aspiring Data Analyst .
 
 ## 💡 Thanks for checking out the project!
